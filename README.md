@@ -1,4 +1,4 @@
-## Admin Dashboard [(Live Demo)](/)
+## Admin Dashboard [(Live Demo)](https://admin-dashboard-react-eta.vercel.app/)
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -8,16 +8,16 @@
 
 ## Demo
 
-- [Dashboard Page](/)
-- [Users Page](/user)
-- [Products Page](/products)
-- [Blog Page](/blog)
-- [Login Page](/login)
-- [Not Found Page](/404)
+- [Dashboard Page](https://admin-dashboard-react-eta.vercel.app/)
+- [Users Page](https://admin-dashboard-react-eta.vercel.app/user)
+- [Products Page](https://admin-dashboard-react-eta.vercel.app/products)
+- [Blog Page](https://admin-dashboard-react-eta.vercel.app/blog)
+- [Login Page](https://admin-dashboard-react-eta.vercel.app/login)
+- [Not Found Page](https://admin-dashboard-react-eta.vercel.app/404)
 
 ## Quick start
 
-- [Download from Github](/) or clone the repo : `git clone `
+- [Download from Github](https://github.com/ankitsinghmyself/admin-dashboard-react) or clone the repo : `git clone https://github.com/ankitsinghmyself/admin-dashboard-react.git`
 - Recommended `Node.js v18.x`.
 - **Install:** `yarn install`
 - **Start:** `yarn dev`
